@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Owwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula">
 
-![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release)
+### 你好，世界 
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
 
-![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
+![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release) ![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
