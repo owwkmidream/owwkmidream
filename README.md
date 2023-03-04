@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/owwkmidream/count.svg" />
+</p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula">
 
-### 你好，世界 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+### CS major
+- :orange_book: Focusing on CS
+- :hammer: Working on HDACP
 
-![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release) ![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
+![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release)![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
