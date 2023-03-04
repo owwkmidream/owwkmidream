@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Owwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula)
+![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release
+![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
