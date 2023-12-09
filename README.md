@@ -23,8 +23,4 @@ Here are some ideas to get you started:
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula">
 
-### CS major
-- :orange_book: Focusing on CS
-- :hammer: Working on HDACP
-
 ![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release)![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
