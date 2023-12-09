@@ -22,5 +22,3 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/owwkmidream/count.svg" />
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula">
-
-![Bkebi Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Bkebi-GC-Release)![Tele Card](https://github-readme-stats.vercel.app/api/pin/?username=owwkmidream&repo=Genshin_Impact_Teleport)
