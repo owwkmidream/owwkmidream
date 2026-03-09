@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 # Hi there 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/owwkmidream/count.svg" />
-</p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=owwkmidream&show_icons=true&theme=dracula">
+<img align="right" src="./profile/stats.svg" alt="GitHub stats">
