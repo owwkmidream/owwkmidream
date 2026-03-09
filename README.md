@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.deno.dev/owwkmidream/count.svg" />
+</p>
 <img align="right" src="./profile/stats.svg" alt="GitHub stats">
+
